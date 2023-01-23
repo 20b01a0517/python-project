@@ -1,0 +1,6 @@
+1. Install a comfortable IDLE (Spyder/Pycharm)
+2. Open Project folder in IDLE
+3. To install dependencies run this command in the Terminal: "pip install -r requirements.txt"
+4. After installing, run the main.py file using run button in IDLE
+5. Differnt Images can be tested by copying own IVUS images into IVUS sub folder
+6. Segmented Images can be viewed in Terminal and also saved in Output sub folder
